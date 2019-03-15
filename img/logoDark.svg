@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="80" height="81" viewBox="0 0 80 81">
+  <g id="Logo" transform="translate(-140 -21)">
+    <g id="Rectangle_1" data-name="Rectangle 1" transform="translate(140 28)" fill="none" stroke="#1c1b1b" stroke-width="3">
+      <rect width="78" height="67" stroke="none"/>
+      <rect x="1.5" y="1.5" width="75" height="64" fill="none"/>
+    </g>
+    <text id="J." transform="translate(142 21)" fill="#1e1e1e" font-size="66" font-family="Montserrat-Regular, Montserrat"><tspan x="15.768" y="64">J.</tspan></text>
+  </g>
+</svg>

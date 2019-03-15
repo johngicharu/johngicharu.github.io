@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="80" height="81" viewBox="0 0 80 81">
+  <defs>
+    <style>
+      .cls-1, .cls-4 {
+        fill: none;
+      }
+
+      .cls-1 {
+        stroke: #ebebeb;
+        stroke-width: 3px;
+      }
+
+      .cls-2 {
+        fill: #ebebeb;
+        font-size: 66px;
+        font-family: Montserrat-Regular, Montserrat;
+      }
+
+      .cls-3 {
+        stroke: none;
+      }
+    </style>
+  </defs>
+  <g id="Logo" transform="translate(-140 -47)">
+    <g id="Rectangle_1" data-name="Rectangle 1" class="cls-1" transform="translate(140 54)">
+      <rect class="cls-3" width="78" height="67"/>
+      <rect class="cls-4" x="1.5" y="1.5" width="75" height="64"/>
+    </g>
+    <text id="J." class="cls-2" transform="translate(142 47)"><tspan x="15.768" y="64">J.</tspan></text>
+  </g>
+</svg>
