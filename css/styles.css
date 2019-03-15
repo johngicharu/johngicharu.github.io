@@ -302,6 +302,10 @@ nav #closeIcon::after {
           transform: translateX(5px) translateY(2px);
 }
 
+.container .jumbotron .jumbotron__link:hover {
+  font-weight: 500;
+}
+
 .container .jumbotron #scrollAnime {
   width: 35px;
   height: 70px;
@@ -400,7 +404,7 @@ nav #closeIcon::after {
 }
 
 #about .about__content--link:hover {
-  font-weight: 400;
+  font-weight: 500;
 }
 
 #about .about__content--link:hover img {
@@ -482,7 +486,7 @@ nav #closeIcon::after {
 }
 
 #skills .skills__content--link:hover {
-  font-weight: 400;
+  font-weight: 500;
 }
 
 #skills .skills__content--link:hover img {
